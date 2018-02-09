@@ -26,6 +26,7 @@
 #undef __UCLIBCXX_SUPPORT_CDIR__
 #define __UCLIBCXX_SUPPORT_COUT__
 #define __UCLIBCXX_SUPPORT_CERR__
+#define __UCLIBCXX_SUPPORT_CIN__
 /*
  * STL and Code Expansion
  */
